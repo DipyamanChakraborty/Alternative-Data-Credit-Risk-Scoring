@@ -121,6 +121,11 @@ The framework combines traditional credit features with engineered behavioral in
 <p align="center">
 <img width="550" height="547" alt="confusion_matrix" src="https://github.com/user-attachments/assets/fc415b1c-62ba-4c0d-93e4-83b0a91ea5e4" />
 </p>
+| Actual | Predicted Good | Predicted Poor |
+| ------ | -------------: | -------------: |
+| Good   |             92 |              4 |
+| Poor   |              1 |             63 |
+
 
 The enhanced XGBoost model correctly classified **155 out of 160** evaluation samples while maintaining high precision and recall for identifying high-risk borrowers.
 
@@ -134,7 +139,10 @@ The feature importance output is available in:
 
 ```
 results/feature_importance.csv
+
+
 ```
+Behavioral indicators such as transaction volatility, average transaction amount, fraud ratio, and total transactions contributed significantly to the enhanced model's predictive capability alongside traditional credit bureau variables.
 
 ---
 
@@ -189,8 +197,7 @@ Alternative-Data-Credit-Risk-Scoring
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Alternative-Data-Credit-Risk-Scoring.git
-```
+git clone https://github.com/DipyamanChakraborty/Alternative-Data-Credit-Risk-Scoring.git```
 
 Install the required libraries
 
@@ -205,6 +212,14 @@ python src/model_training.py
 ```
 
 ---
+## 📂 Dataset
+
+The project integrates two categories of data:
+
+- Traditional credit risk information
+- UPI transaction records for behavioral feature engineering
+
+Due to licensing and repository size limitations, the datasets are not included in this repository.
 
 ## 🔮 Future Enhancements
 
