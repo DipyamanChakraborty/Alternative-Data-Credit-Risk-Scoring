@@ -1,0 +1,619 @@
+feature,importance
+EXT_SOURCE_2,0.012224096
+EXT_SOURCE_3,0.012188366
+NAME_EDUCATION_TYPE_Higher education,0.01007716
+CODE_GENDER_M,0.0072508547
+CODE_GENDER_F,0.0057431497
+FLAG_OWN_CAR_Y,0.0056561767
+NAME_EDUCATION_TYPE_Secondary / secondary special,0.0051895147
+FLAG_DOCUMENT_3,0.004415296
+NAME_CONTRACT_TYPE_Revolving loans,0.004240297
+FLAG_OWN_CAR_N,0.004104456
+DAYS_EMPLOYED,0.0038136547
+NAME_CONTRACT_TYPE_Cash loans,0.0037747156
+NAME_INCOME_TYPE_Working,0.0037160695
+AMT_GOODS_PRICE,0.0037122923
+NAME_INCOME_TYPE_State servant,0.0036903624
+OCCUPATION_TYPE_Core staff,0.0035808675
+REGION_RATING_CLIENT_W_CITY,0.003443756
+DEF_60_CNT_SOCIAL_CIRCLE,0.0034025123
+NAME_FAMILY_STATUS_Married,0.0033776085
+OCCUPATION_TYPE_Sales staff,0.0033321714
+user_segment_Yes Bank_Tamil Nadu_56+,0.003326075
+AMT_CREDIT,0.0031121802
+REGION_RATING_CLIENT,0.0030422306
+ORGANIZATION_TYPE_Restaurant,0.0029999549
+user_segment_SBI_Tamil Nadu_26-35,0.0029677078
+FLAG_EMP_PHONE,0.0029256458
+DAYS_BIRTH,0.0029146844
+user_segment_Yes Bank_Tamil Nadu_26-35,0.0028161905
+DEF_30_CNT_SOCIAL_CIRCLE,0.0028150782
+REG_CITY_NOT_LIVE_CITY,0.002788035
+user_segment_Yes Bank_Andhra Pradesh_18-25,0.0027411964
+user_segment_IndusInd_Uttar Pradesh_18-25,0.0027349992
+FLAG_DOCUMENT_16,0.002732675
+user_segment_Kotak_Tamil Nadu_18-25,0.0027123871
+user_segment_Kotak_Delhi_18-25,0.0027105622
+OCCUPATION_TYPE_Laborers,0.0026997763
+user_segment_Axis_Maharashtra_26-35,0.0026949914
+user_segment_IndusInd_Rajasthan_56+,0.0026781517
+FLAG_DOCUMENT_13,0.0026563357
+AMT_ANNUITY,0.0026542256
+NAME_INCOME_TYPE_Pensioner,0.002644476
+FLOORSMAX_MEDI,0.0026381311
+user_segment_Kotak_Andhra Pradesh_36-45,0.0026355798
+user_segment_Kotak_Uttar Pradesh_56+,0.0025846888
+NAME_HOUSING_TYPE_House / apartment,0.0025788643
+ORGANIZATION_TYPE_Trade: type 2,0.0025781195
+AMT_REQ_CREDIT_BUREAU_QRT,0.0025540139
+user_segment_SBI_Delhi_56+,0.0025454226
+ORGANIZATION_TYPE_Electricity,0.002539096
+FLOORSMAX_AVG,0.0025249978
+user_segment_IndusInd_Telangana_18-25,0.002510998
+ORGANIZATION_TYPE_Self-employed,0.0024825882
+user_segment_HDFC_Delhi_46-55,0.0024710782
+ORGANIZATION_TYPE_Military,0.002466887
+user_segment_HDFC_Maharashtra_56+,0.00244992
+user_segment_ICICI_Andhra Pradesh_36-45,0.0024446815
+user_segment_Axis_Uttar Pradesh_46-55,0.0024426987
+user_segment_Yes Bank_West Bengal_26-35,0.0024394523
+FLAG_DOCUMENT_18,0.002439262
+user_segment_Yes Bank_Delhi_26-35,0.0024145786
+OCCUPATION_TYPE_High skill tech staff,0.0024004737
+user_segment_Axis_Tamil Nadu_36-45,0.0023850184
+user_segment_IndusInd_Tamil Nadu_36-45,0.0023809697
+user_segment_SBI_Uttar Pradesh_18-25,0.0023793376
+DAYS_ID_PUBLISH,0.0023701247
+user_segment_ICICI_Andhra Pradesh_46-55,0.002367204
+user_segment_Axis_West Bengal_18-25,0.0023611998
+ORGANIZATION_TYPE_School,0.0023597567
+user_segment_Kotak_Karnataka_46-55,0.0023582468
+EMERGENCYSTATE_MODE_No,0.0023581816
+user_segment_SBI_Uttar Pradesh_26-35,0.0023559204
+user_segment_Kotak_Tamil Nadu_46-55,0.0023495664
+user_segment_IndusInd_Delhi_36-45,0.0023466675
+user_segment_HDFC_Rajasthan_56+,0.0023461205
+DAYS_LAST_PHONE_CHANGE,0.0023379405
+ORGANIZATION_TYPE_University,0.0022981688
+user_segment_HDFC_Karnataka_26-35,0.0022974883
+user_segment_ICICI_Rajasthan_46-55,0.0022858274
+user_segment_SBI_Telangana_56+,0.0022817194
+user_segment_Yes Bank_Maharashtra_56+,0.0022804283
+user_segment_Axis_Rajasthan_18-25,0.0022588891
+user_segment_IndusInd_Maharashtra_18-25,0.002248318
+YEARS_BEGINEXPLUATATION_MEDI,0.0022451736
+user_segment_IndusInd_Gujarat_18-25,0.002240974
+user_segment_ICICI_Rajasthan_36-45,0.0022329926
+user_segment_Axis_Uttar Pradesh_56+,0.0022313793
+user_segment_ICICI_Maharashtra_18-25,0.002230195
+user_segment_ICICI_Rajasthan_26-35,0.0022138334
+user_segment_Yes Bank_Rajasthan_18-25,0.002213585
+user_segment_ICICI_Telangana_36-45,0.0022128548
+ORGANIZATION_TYPE_Construction,0.0022126206
+user_segment_Axis_Karnataka_18-25,0.0022062352
+ORGANIZATION_TYPE_Industry: type 5,0.0021885505
+ORGANIZATION_TYPE_Industry: type 1,0.00218798
+NAME_HOUSING_TYPE_Municipal apartment,0.0021828155
+user_segment_IndusInd_Karnataka_56+,0.002178095
+user_segment_IndusInd_Rajasthan_26-35,0.002175007
+user_segment_Axis_Delhi_56+,0.0021739635
+user_segment_PNB_Karnataka_56+,0.0021726515
+user_segment_HDFC_Telangana_26-35,0.0021721984
+user_segment_ICICI_Karnataka_18-25,0.002170806
+user_segment_Kotak_Maharashtra_46-55,0.0021694235
+user_segment_Kotak_Tamil Nadu_36-45,0.0021653124
+user_segment_HDFC_Tamil Nadu_56+,0.0021630789
+TOTALAREA_MODE,0.0021608223
+user_segment_HDFC_Gujarat_46-55,0.0021558043
+user_segment_SBI_Telangana_46-55,0.0021499395
+user_segment_Axis_Andhra Pradesh_36-45,0.0021460382
+user_segment_HDFC_Tamil Nadu_18-25,0.0021457302
+user_segment_Yes Bank_Rajasthan_46-55,0.0021444906
+user_segment_PNB_Andhra Pradesh_18-25,0.0021339562
+ORGANIZATION_TYPE_Medicine,0.0021277224
+user_segment_Kotak_Telangana_26-35,0.002124782
+income_vs_spend,0.0021206702
+FLAG_WORK_PHONE,0.002118629
+FLOORSMAX_MODE,0.0021167544
+user_segment_Kotak_Karnataka_36-45,0.0021158627
+OCCUPATION_TYPE_Cleaning staff,0.0021143167
+YEARS_BEGINEXPLUATATION_MODE,0.002113774
+user_segment_Yes Bank_Rajasthan_36-45,0.00210772
+OCCUPATION_TYPE_Secretaries,0.0021067369
+user_segment_SBI_West Bengal_18-25,0.0021056994
+ORGANIZATION_TYPE_Services,0.0021055604
+user_segment_Axis_Tamil Nadu_46-55,0.0021043036
+user_segment_Kotak_Rajasthan_18-25,0.00210219
+user_segment_SBI_Delhi_26-35,0.0020989117
+user_segment_SBI_Andhra Pradesh_46-55,0.0020981622
+OCCUPATION_TYPE_Accountants,0.0020966523
+user_segment_ICICI_Andhra Pradesh_26-35,0.002093773
+user_segment_HDFC_West Bengal_18-25,0.0020906988
+transaction_volatility,0.0020900525
+user_segment_PNB_Tamil Nadu_18-25,0.0020802093
+avg_transaction_amount,0.0020798808
+ORGANIZATION_TYPE_Business Entity Type 1,0.002079731
+user_segment_IndusInd_Uttar Pradesh_36-45,0.0020752086
+NAME_FAMILY_STATUS_Separated,0.002072341
+ORGANIZATION_TYPE_Industry: type 9,0.002071518
+user_segment_IndusInd_West Bengal_46-55,0.0020705091
+user_segment_Yes Bank_Karnataka_26-35,0.0020678919
+user_segment_IndusInd_Andhra Pradesh_26-35,0.0020664174
+user_segment_PNB_Uttar Pradesh_18-25,0.0020660956
+ORGANIZATION_TYPE_Police,0.0020648749
+user_segment_Axis_Tamil Nadu_56+,0.0020602113
+user_segment_IndusInd_Rajasthan_36-45,0.002059645
+user_segment_Kotak_Telangana_36-45,0.002059217
+user_segment_Yes Bank_Andhra Pradesh_46-55,0.0020568059
+user_segment_Yes Bank_West Bengal_18-25,0.0020496885
+user_segment_ICICI_Gujarat_26-35,0.0020474917
+FLAG_DOCUMENT_14,0.0020443224
+user_segment_Kotak_Karnataka_26-35,0.0020420724
+fraud_ratio,0.0020401687
+OCCUPATION_TYPE_Low-skill Laborers,0.002040053
+user_segment_PNB_Andhra Pradesh_36-45,0.0020366572
+AMT_REQ_CREDIT_BUREAU_YEAR,0.0020365557
+user_segment_PNB_Rajasthan_26-35,0.0020353403
+credit_vs_activity,0.002034913
+NAME_TYPE_SUITE_Children,0.0020331065
+user_segment_HDFC_West Bengal_46-55,0.0020274688
+user_segment_SBI_Karnataka_46-55,0.0020270809
+user_segment_SBI_Gujarat_26-35,0.0020260059
+ORGANIZATION_TYPE_Emergency,0.0020235695
+total_transactions,0.0020202128
+user_segment_Yes Bank_Karnataka_56+,0.002018323
+NAME_HOUSING_TYPE_Office apartment,0.002017953
+user_segment_PNB_Uttar Pradesh_26-35,0.002017761
+OBS_60_CNT_SOCIAL_CIRCLE,0.0020173362
+user_segment_IndusInd_Tamil Nadu_56+,0.0020167888
+user_segment_SBI_Uttar Pradesh_46-55,0.002011131
+user_segment_IndusInd_Delhi_46-55,0.0020047391
+user_segment_Axis_Andhra Pradesh_46-55,0.0020031154
+user_segment_Yes Bank_West Bengal_36-45,0.0020028837
+user_segment_HDFC_Rajasthan_46-55,0.0019994278
+user_segment_ICICI_Maharashtra_26-35,0.0019949996
+user_segment_PNB_Rajasthan_56+,0.0019905479
+ORGANIZATION_TYPE_Bank,0.0019867308
+user_segment_HDFC_Gujarat_26-35,0.0019789112
+OCCUPATION_TYPE_Managers,0.001973594
+user_segment_IndusInd_Delhi_56+,0.0019731054
+OCCUPATION_TYPE_Drivers,0.0019622725
+ORGANIZATION_TYPE_Transport: type 3,0.001959538
+user_segment_IndusInd_Tamil Nadu_46-55,0.0019574848
+NAME_TYPE_SUITE_nan,0.0019549062
+DAYS_REGISTRATION,0.0019546468
+user_segment_HDFC_Delhi_56+,0.0019526508
+REGION_POPULATION_RELATIVE,0.0019508896
+user_segment_SBI_West Bengal_36-45,0.0019508487
+user_segment_ICICI_Uttar Pradesh_46-55,0.0019506091
+user_segment_Axis_Delhi_36-45,0.0019503514
+user_segment_Axis_Telangana_18-25,0.0019500315
+stability_index,0.0019492958
+risk_behavior_score,0.0019488684
+NAME_FAMILY_STATUS_Single / not married,0.0019476406
+NAME_TYPE_SUITE_Other_A,0.0019440657
+user_segment_IndusInd_Andhra Pradesh_18-25,0.0019435263
+user_segment_Kotak_Maharashtra_18-25,0.0019427805
+NAME_HOUSING_TYPE_Rented apartment,0.0019412556
+weekend_ratio,0.0019397535
+user_segment_Axis_Delhi_46-55,0.0019370607
+ORGANIZATION_TYPE_Security Ministries,0.0019325385
+user_segment_PNB_Rajasthan_46-55,0.0019320111
+user_segment_PNB_Telangana_26-35,0.0019319961
+user_segment_Yes Bank_Uttar Pradesh_36-45,0.0019271591
+activity_intensity,0.0019258746
+user_segment_Axis_Maharashtra_36-45,0.0019257735
+user_segment_ICICI_Uttar Pradesh_36-45,0.0019245928
+user_segment_SBI_Rajasthan_26-35,0.0019233207
+user_segment_PNB_Maharashtra_46-55,0.0019201492
+AMT_REQ_CREDIT_BUREAU_MON,0.0019187895
+NAME_EDUCATION_TYPE_Incomplete higher,0.0019184939
+AMT_REQ_CREDIT_BUREAU_WEEK,0.0019179916
+user_segment_HDFC_Telangana_36-45,0.001915596
+user_segment_ICICI_Andhra Pradesh_18-25,0.0019141895
+user_segment_Axis_Uttar Pradesh_36-45,0.001909625
+WEEKDAY_APPR_PROCESS_START_FRIDAY,0.0019057093
+FLAG_DOCUMENT_11,0.0019054362
+NAME_HOUSING_TYPE_With parents,0.0019024002
+user_segment_SBI_Andhra Pradesh_18-25,0.0019010191
+user_segment_HDFC_Maharashtra_26-35,0.001899931
+user_segment_ICICI_Telangana_26-35,0.0018983039
+user_segment_HDFC_Karnataka_18-25,0.0018977686
+user_segment_HDFC_Rajasthan_18-25,0.0018976892
+OCCUPATION_TYPE_Medicine staff,0.0018965111
+user_segment_ICICI_West Bengal_18-25,0.0018941722
+user_segment_HDFC_Andhra Pradesh_36-45,0.0018851128
+user_segment_SBI_West Bengal_56+,0.0018824859
+user_segment_Yes Bank_Maharashtra_18-25,0.0018820693
+user_segment_ICICI_Delhi_18-25,0.001878384
+NAME_FAMILY_STATUS_Widow,0.0018702386
+user_segment_SBI_Rajasthan_56+,0.0018679432
+user_segment_Yes Bank_Delhi_18-25,0.001858782
+user_segment_IndusInd_Maharashtra_56+,0.0018533475
+user_segment_PNB_Rajasthan_36-45,0.0018519463
+user_segment_PNB_Karnataka_46-55,0.001851005
+user_segment_IndusInd_West Bengal_26-35,0.0018481677
+user_segment_Yes Bank_Gujarat_56+,0.0018443859
+NAME_EDUCATION_TYPE_Lower secondary,0.0018412058
+user_segment_ICICI_Maharashtra_56+,0.0018406602
+user_segment_Kotak_Telangana_56+,0.0018381263
+user_segment_Yes Bank_Maharashtra_46-55,0.001837579
+user_segment_ICICI_Gujarat_46-55,0.0018342042
+user_segment_Yes Bank_Uttar Pradesh_26-35,0.0018288246
+NAME_HOUSING_TYPE_Co-op apartment,0.0018279958
+user_segment_SBI_West Bengal_46-55,0.0018257815
+user_segment_SBI_Gujarat_46-55,0.0018228448
+user_segment_Axis_Karnataka_56+,0.0018194958
+user_segment_PNB_Karnataka_26-35,0.0018188037
+user_segment_PNB_Gujarat_36-45,0.001812684
+OCCUPATION_TYPE_nan,0.0018118644
+user_segment_HDFC_Gujarat_36-45,0.001810682
+OBS_30_CNT_SOCIAL_CIRCLE,0.001810429
+user_segment_SBI_Delhi_46-55,0.0018097888
+user_segment_IndusInd_Tamil Nadu_26-35,0.0018090963
+YEARS_BEGINEXPLUATATION_AVG,0.0018008642
+ORGANIZATION_TYPE_Other,0.0017931408
+user_segment_Yes Bank_Andhra Pradesh_26-35,0.0017929887
+merchant_diversity,0.0017925533
+user_segment_Yes Bank_Karnataka_18-25,0.0017898876
+user_segment_Axis_Rajasthan_56+,0.0017881321
+user_segment_HDFC_Tamil Nadu_46-55,0.0017850893
+user_segment_PNB_Uttar Pradesh_36-45,0.0017835357
+user_segment_PNB_Delhi_26-35,0.0017816499
+user_segment_Kotak_Karnataka_18-25,0.0017778077
+user_segment_SBI_Tamil Nadu_56+,0.0017777743
+ORGANIZATION_TYPE_Transport: type 1,0.001777277
+user_segment_SBI_Tamil Nadu_46-55,0.0017739323
+user_segment_ICICI_Andhra Pradesh_56+,0.0017731753
+user_segment_Yes Bank_Rajasthan_26-35,0.0017715894
+REG_CITY_NOT_WORK_CITY,0.001766758
+user_segment_Kotak_Delhi_36-45,0.001766573
+FLAG_DOCUMENT_5,0.0017663375
+ORGANIZATION_TYPE_Housing,0.0017662984
+user_segment_IndusInd_Uttar Pradesh_26-35,0.0017561036
+user_segment_Kotak_Tamil Nadu_26-35,0.001754282
+user_segment_PNB_Telangana_36-45,0.0017527054
+user_segment_SBI_Tamil Nadu_18-25,0.0017500689
+ORGANIZATION_TYPE_Trade: type 6,0.0017470554
+ORGANIZATION_TYPE_Realtor,0.0017441313
+user_segment_ICICI_West Bengal_36-45,0.0017436079
+user_segment_Axis_Delhi_18-25,0.0017379972
+user_segment_HDFC_Maharashtra_18-25,0.0017366321
+user_segment_IndusInd_Gujarat_26-35,0.0017314235
+user_segment_ICICI_Tamil Nadu_18-25,0.0017301994
+FLAG_EMAIL,0.0017292486
+WEEKDAY_APPR_PROCESS_START_MONDAY,0.0017278498
+user_segment_SBI_Andhra Pradesh_26-35,0.001727772
+user_segment_HDFC_Rajasthan_36-45,0.0017253922
+ORGANIZATION_TYPE_Legal Services,0.0017205914
+user_segment_PNB_Uttar Pradesh_46-55,0.0017188966
+user_segment_Yes Bank_Telangana_56+,0.0017184153
+FLAG_DOCUMENT_6,0.0017166091
+FLAG_PHONE,0.0017102093
+user_segment_Kotak_Rajasthan_56+,0.0017095899
+user_segment_IndusInd_Delhi_18-25,0.0017094522
+AMT_INCOME_TOTAL,0.0017094479
+WEEKDAY_APPR_PROCESS_START_SATURDAY,0.0017076898
+user_segment_PNB_West Bengal_56+,0.0017067859
+user_segment_HDFC_Andhra Pradesh_26-35,0.0017060208
+user_segment_Axis_West Bengal_56+,0.0017009588
+FLAG_DOCUMENT_8,0.0016999107
+user_segment_SBI_Rajasthan_36-45,0.0016991936
+ORGANIZATION_TYPE_Hotel,0.0016969764
+device_diversity,0.0016960063
+user_segment_SBI_Gujarat_18-25,0.0016921019
+user_segment_Axis_Andhra Pradesh_18-25,0.0016915151
+user_segment_Yes Bank_Delhi_36-45,0.0016908939
+user_segment_Kotak_West Bengal_26-35,0.0016878761
+user_segment_ICICI_Tamil Nadu_46-55,0.0016838476
+HOUR_APPR_PROCESS_START,0.0016834199
+user_segment_Kotak_West Bengal_18-25,0.0016827787
+REG_REGION_NOT_WORK_REGION,0.001679194
+FLAG_DOCUMENT_2,0.0016762252
+user_segment_PNB_Karnataka_18-25,0.0016728479
+user_segment_HDFC_Gujarat_18-25,0.0016724363
+user_segment_PNB_Telangana_46-55,0.0016703946
+user_segment_Yes Bank_Tamil Nadu_36-45,0.0016690517
+user_segment_Kotak_Gujarat_18-25,0.001668876
+user_segment_PNB_Andhra Pradesh_46-55,0.001665202
+user_segment_ICICI_Telangana_56+,0.0016632844
+NAME_FAMILY_STATUS_Civil marriage,0.0016611024
+user_segment_IndusInd_Maharashtra_46-55,0.0016609804
+user_segment_PNB_Maharashtra_26-35,0.0016602968
+ORGANIZATION_TYPE_Kindergarten,0.0016577032
+user_segment_Yes Bank_Karnataka_46-55,0.0016566507
+user_segment_HDFC_Uttar Pradesh_46-55,0.0016534976
+ORGANIZATION_TYPE_Security,0.0016534617
+ORGANIZATION_TYPE_Business Entity Type 3,0.0016519624
+ORGANIZATION_TYPE_Culture,0.0016505698
+user_segment_IndusInd_West Bengal_56+,0.0016504772
+user_segment_ICICI_West Bengal_26-35,0.0016485291
+CNT_FAM_MEMBERS,0.0016483665
+user_segment_PNB_Gujarat_56+,0.0016471653
+EMERGENCYSTATE_MODE_nan,0.0016460139
+user_segment_Axis_Maharashtra_56+,0.0016459498
+user_segment_Axis_Maharashtra_46-55,0.0016451395
+user_segment_ICICI_Tamil Nadu_26-35,0.0016409946
+WEEKDAY_APPR_PROCESS_START_THURSDAY,0.001631133
+user_segment_HDFC_Maharashtra_46-55,0.0016299137
+OCCUPATION_TYPE_Private service staff,0.0016289199
+ORGANIZATION_TYPE_Telecom,0.0016286515
+user_segment_Axis_Gujarat_56+,0.0016201718
+user_segment_SBI_Maharashtra_56+,0.0016193324
+ORGANIZATION_TYPE_Transport: type 2,0.0016176158
+user_segment_SBI_Rajasthan_18-25,0.0016161985
+ORGANIZATION_TYPE_Business Entity Type 2,0.0016084345
+user_segment_HDFC_West Bengal_36-45,0.0016060821
+user_segment_ICICI_Karnataka_36-45,0.0016031038
+user_segment_SBI_Rajasthan_46-55,0.0016004816
+user_segment_Kotak_Maharashtra_26-35,0.0016000419
+user_segment_IndusInd_West Bengal_36-45,0.0015991469
+user_segment_Yes Bank_Telangana_18-25,0.0015987913
+user_segment_IndusInd_Delhi_26-35,0.0015959883
+ORGANIZATION_TYPE_Government,0.0015917295
+user_segment_PNB_Andhra Pradesh_56+,0.0015825265
+user_segment_SBI_Andhra Pradesh_56+,0.0015765346
+user_segment_PNB_Uttar Pradesh_56+,0.0015748935
+user_segment_ICICI_Tamil Nadu_36-45,0.0015678118
+user_segment_Axis_Tamil Nadu_18-25,0.0015670671
+user_segment_IndusInd_Andhra Pradesh_46-55,0.0015654775
+user_segment_ICICI_Delhi_26-35,0.001562847
+user_segment_Kotak_Uttar Pradesh_46-55,0.0015610965
+OCCUPATION_TYPE_Cooking staff,0.0015606773
+user_segment_PNB_Telangana_18-25,0.0015589326
+user_segment_HDFC_Rajasthan_26-35,0.0015547036
+user_segment_PNB_Tamil Nadu_56+,0.0015531813
+user_segment_Axis_Telangana_26-35,0.0015520211
+user_segment_IndusInd_Rajasthan_18-25,0.001551392
+"NAME_TYPE_SUITE_Spouse, partner",0.0015499378
+user_segment_PNB_Maharashtra_18-25,0.0015467164
+LIVE_CITY_NOT_WORK_CITY,0.0015455406
+user_segment_HDFC_Andhra Pradesh_56+,0.0015450944
+user_segment_HDFC_Karnataka_36-45,0.0015405873
+user_segment_Yes Bank_Delhi_56+,0.0015397653
+user_segment_Kotak_Andhra Pradesh_46-55,0.0015391046
+user_segment_Yes Bank_Uttar Pradesh_46-55,0.0015376713
+WEEKDAY_APPR_PROCESS_START_WEDNESDAY,0.0015371206
+user_segment_PNB_West Bengal_36-45,0.0015355475
+ORGANIZATION_TYPE_Trade: type 3,0.0015312888
+user_segment_Axis_Tamil Nadu_26-35,0.0015310295
+user_segment_IndusInd_Telangana_56+,0.00152639
+user_segment_HDFC_Delhi_36-45,0.0015244962
+user_segment_SBI_Maharashtra_26-35,0.001520612
+user_segment_Yes Bank_Karnataka_36-45,0.0015162365
+WEEKDAY_APPR_PROCESS_START_SUNDAY,0.0015124893
+OCCUPATION_TYPE_Waiters/barmen staff,0.0015119696
+user_segment_Kotak_Telangana_46-55,0.0015109036
+ORGANIZATION_TYPE_Trade: type 7,0.0015043406
+user_segment_PNB_Maharashtra_36-45,0.0015003018
+user_segment_Kotak_Karnataka_56+,0.0014938611
+user_segment_Kotak_Uttar Pradesh_36-45,0.0014906235
+user_segment_PNB_Delhi_56+,0.0014872284
+FLAG_OWN_REALTY_N,0.0014854107
+user_segment_HDFC_Uttar Pradesh_36-45,0.001476216
+user_segment_Axis_West Bengal_26-35,0.0014743918
+user_segment_Axis_Rajasthan_26-35,0.0014710099
+ORGANIZATION_TYPE_Industry: type 12,0.0014653996
+user_segment_SBI_Maharashtra_36-45,0.0014644754
+user_segment_PNB_Delhi_36-45,0.0014643351
+user_segment_SBI_Karnataka_36-45,0.0014614474
+user_segment_ICICI_Karnataka_46-55,0.0014608537
+NAME_TYPE_SUITE_Other_B,0.0014600124
+user_segment_ICICI_Telangana_18-25,0.00145709
+user_segment_Yes Bank_Gujarat_36-45,0.0014546446
+user_segment_Yes Bank_Tamil Nadu_46-55,0.0014540411
+user_segment_Yes Bank_Maharashtra_26-35,0.0014497384
+user_segment_Axis_Gujarat_26-35,0.0014491169
+user_segment_Axis_Gujarat_18-25,0.0014486412
+user_segment_Yes Bank_West Bengal_46-55,0.0014450678
+user_segment_PNB_Gujarat_26-35,0.001437828
+user_segment_Kotak_West Bengal_56+,0.0014373695
+user_segment_Kotak_Gujarat_46-55,0.0014361998
+WEEKDAY_APPR_PROCESS_START_TUESDAY,0.0014327345
+user_segment_IndusInd_Andhra Pradesh_36-45,0.0014312025
+user_segment_IndusInd_Rajasthan_46-55,0.0014265835
+user_segment_HDFC_Karnataka_46-55,0.0014258745
+user_segment_Kotak_Gujarat_36-45,0.0014199355
+NAME_TYPE_SUITE_Unaccompanied,0.0014196631
+user_segment_Kotak_Delhi_56+,0.0014146453
+user_segment_Kotak_Rajasthan_46-55,0.0014120799
+user_segment_PNB_Delhi_46-55,0.0014105925
+ORGANIZATION_TYPE_Industry: type 3,0.0014088636
+user_segment_Yes Bank_Telangana_46-55,0.0014053336
+user_segment_ICICI_Karnataka_56+,0.0014041055
+user_segment_Kotak_Rajasthan_26-35,0.0014035727
+user_segment_ICICI_Rajasthan_18-25,0.0014027081
+user_segment_SBI_Gujarat_36-45,0.001402282
+user_segment_Kotak_Maharashtra_56+,0.0014017711
+user_segment_Yes Bank_Rajasthan_56+,0.0014015734
+user_segment_SBI_Uttar Pradesh_36-45,0.0013953937
+user_segment_ICICI_Rajasthan_56+,0.0013939742
+ORGANIZATION_TYPE_Advertising,0.0013920476
+user_segment_HDFC_Karnataka_56+,0.0013895254
+user_segment_ICICI_Uttar Pradesh_56+,0.0013801443
+user_segment_Kotak_Gujarat_26-35,0.0013649034
+user_segment_PNB_Tamil Nadu_46-55,0.0013611934
+ORGANIZATION_TYPE_Agriculture,0.0013583237
+CNT_CHILDREN,0.0013554683
+user_segment_Yes Bank_Gujarat_18-25,0.0013518041
+user_segment_HDFC_Maharashtra_36-45,0.001348754
+user_segment_Kotak_Rajasthan_36-45,0.001346794
+user_segment_Axis_Gujarat_46-55,0.0013447419
+user_segment_ICICI_Gujarat_56+,0.0013446942
+user_segment_ICICI_Delhi_46-55,0.0013438071
+user_segment_PNB_Gujarat_46-55,0.0013385671
+AMT_REQ_CREDIT_BUREAU_DAY,0.0013348504
+user_segment_Yes Bank_Telangana_26-35,0.0013311998
+user_segment_Kotak_Maharashtra_36-45,0.0013294098
+user_segment_ICICI_Maharashtra_36-45,0.0013217361
+user_segment_IndusInd_Maharashtra_36-45,0.001318384
+AMT_REQ_CREDIT_BUREAU_HOUR,0.0013174973
+OCCUPATION_TYPE_Security staff,0.0013101847
+FLAG_DOCUMENT_15,0.0013088027
+user_segment_SBI_Telangana_36-45,0.0013081226
+user_segment_SBI_Maharashtra_18-25,0.0013061858
+user_segment_ICICI_Tamil Nadu_56+,0.001302582
+NAME_INCOME_TYPE_Unemployed,0.0013003948
+user_segment_Axis_Gujarat_36-45,0.0012952811
+user_segment_PNB_Tamil Nadu_26-35,0.0012912335
+ORGANIZATION_TYPE_Industry: type 2,0.0012766148
+user_segment_SBI_Tamil Nadu_36-45,0.0012750297
+user_segment_PNB_Maharashtra_56+,0.0012578852
+user_segment_PNB_Tamil Nadu_36-45,0.0012535008
+ORGANIZATION_TYPE_Industry: type 4,0.0012529799
+user_segment_PNB_Andhra Pradesh_26-35,0.0012506982
+EMERGENCYSTATE_MODE_Yes,0.0012500753
+user_segment_Axis_Andhra Pradesh_56+,0.0012499973
+user_segment_Axis_Uttar Pradesh_18-25,0.0012448773
+user_segment_HDFC_Andhra Pradesh_18-25,0.0012408834
+user_segment_Kotak_Andhra Pradesh_18-25,0.0012299131
+ORGANIZATION_TYPE_Transport: type 4,0.0012272969
+user_segment_Axis_Telangana_36-45,0.0012267077
+user_segment_PNB_West Bengal_26-35,0.0012193575
+user_segment_IndusInd_Gujarat_36-45,0.0012125536
+user_segment_Yes Bank_Andhra Pradesh_36-45,0.0012045524
+user_segment_IndusInd_Maharashtra_26-35,0.0011924658
+user_segment_HDFC_West Bengal_56+,0.0011917059
+user_segment_Axis_Uttar Pradesh_26-35,0.0011894179
+ORGANIZATION_TYPE_Industry: type 11,0.0011717182
+user_segment_IndusInd_Karnataka_18-25,0.0011672125
+OCCUPATION_TYPE_HR staff,0.0011637266
+user_segment_Axis_Karnataka_36-45,0.0011606957
+user_segment_Kotak_Uttar Pradesh_18-25,0.0011602174
+FLAG_DOCUMENT_9,0.0011589744
+REG_REGION_NOT_LIVE_REGION,0.001151484
+NAME_EDUCATION_TYPE_Academic degree,0.0011442768
+user_segment_Yes Bank_Uttar Pradesh_18-25,0.0011401147
+NAME_INCOME_TYPE_Commercial associate,0.0011205032
+LIVE_REGION_NOT_WORK_REGION,0.0011149942
+user_segment_HDFC_Telangana_18-25,0.0011105132
+user_segment_SBI_Delhi_36-45,0.0010871908
+user_segment_Yes Bank_West Bengal_56+,0.001075913
+user_segment_Axis_Rajasthan_46-55,0.0010659735
+user_segment_IndusInd_Tamil Nadu_18-25,0.0010625592
+NAME_TYPE_SUITE_Family,0.0010580816
+user_segment_IndusInd_Karnataka_46-55,0.0010481271
+user_segment_Kotak_Andhra Pradesh_26-35,0.0010464146
+user_segment_PNB_Karnataka_36-45,0.0010453349
+OCCUPATION_TYPE_Realty agents,0.0010403212
+user_segment_Kotak_West Bengal_36-45,0.0010184741
+user_segment_ICICI_West Bengal_56+,0.0010112682
+user_segment_IndusInd_Uttar Pradesh_56+,0.0010088211
+user_segment_Axis_Andhra Pradesh_26-35,0.0010030599
+user_segment_Axis_Karnataka_46-55,0.0009946625
+user_segment_Axis_West Bengal_46-55,0.0009865317
+user_segment_Axis_Karnataka_26-35,0.0009724854
+FLAG_OWN_REALTY_Y,0.0009723538
+user_segment_Axis_Maharashtra_18-25,0.0009636547
+user_segment_SBI_Karnataka_56+,0.00090203487
+OCCUPATION_TYPE_IT staff,0.0009009568
+user_segment_Yes Bank_Telangana_36-45,0.0008788769
+user_segment_SBI_Telangana_26-35,0.00087482535
+user_segment_IndusInd_Telangana_26-35,0.00086864067
+user_segment_ICICI_Delhi_56+,0.0008524334
+ORGANIZATION_TYPE_Industry: type 7,0.00084589457
+ORGANIZATION_TYPE_Postal,0.0008279696
+user_segment_SBI_Andhra Pradesh_36-45,0.0007879805
+user_segment_SBI_West Bengal_26-35,0.0007771696
+user_segment_ICICI_Gujarat_36-45,0.0007539037
+user_segment_IndusInd_Andhra Pradesh_56+,0.00074460293
+user_segment_Yes Bank_Uttar Pradesh_56+,0.0007390396
+user_segment_IndusInd_Karnataka_36-45,0.00069206266
+user_segment_Kotak_Gujarat_56+,0.0006860057
+user_segment_ICICI_Uttar Pradesh_18-25,0.00067719026
+user_segment_ICICI_Gujarat_18-25,0.0006565914
+user_segment_Axis_Telangana_56+,0.00064166053
+user_segment_IndusInd_West Bengal_18-25,0.0005823048
+user_segment_PNB_Gujarat_18-25,0.0005756917
+user_segment_IndusInd_Uttar Pradesh_46-55,0.00044200447
+user_segment_Axis_Delhi_26-35,0.0004368897
+user_segment_Yes Bank_Tamil Nadu_18-25,0.0
+user_segment_Yes Bank_Maharashtra_36-45,0.0
+user_segment_Kotak_Uttar Pradesh_26-35,0.0
+user_segment_Kotak_Telangana_18-25,0.0
+user_segment_Kotak_Tamil Nadu_56+,0.0
+user_segment_nan,0.0
+FLAG_MOBIL,0.0
+FLAG_CONT_MOBILE,0.0
+user_segment_ICICI_Delhi_36-45,0.0
+user_segment_HDFC_West Bengal_26-35,0.0
+user_segment_HDFC_Telangana_46-55,0.0
+user_segment_ICICI_Uttar Pradesh_26-35,0.0
+user_segment_Kotak_West Bengal_46-55,0.0
+user_segment_PNB_Delhi_18-25,0.0
+user_segment_IndusInd_Karnataka_26-35,0.0
+user_segment_ICICI_Karnataka_26-35,0.0
+user_segment_ICICI_Maharashtra_46-55,0.0
+user_segment_ICICI_Telangana_46-55,0.0
+user_segment_IndusInd_Telangana_36-45,0.0
+user_segment_IndusInd_Telangana_46-55,0.0
+user_segment_IndusInd_Gujarat_56+,0.0
+user_segment_IndusInd_Gujarat_46-55,0.0
+user_segment_Kotak_Delhi_26-35,0.0
+user_segment_Kotak_Andhra Pradesh_56+,0.0
+user_segment_Kotak_Delhi_46-55,0.0
+user_segment_ICICI_West Bengal_46-55,0.0
+ORGANIZATION_TYPE_XNA,0.0
+ORGANIZATION_TYPE_Trade: type 5,0.0
+user_segment_SBI_Delhi_18-25,0.0
+user_segment_PNB_West Bengal_46-55,0.0
+user_segment_PNB_Telangana_56+,0.0
+user_segment_PNB_West Bengal_18-25,0.0
+user_segment_PNB_Rajasthan_18-25,0.0
+user_segment_Axis_West Bengal_36-45,0.0
+user_segment_Axis_Rajasthan_36-45,0.0
+user_segment_Axis_Telangana_46-55,0.0
+user_segment_HDFC_Andhra Pradesh_46-55,0.0
+user_segment_HDFC_Delhi_18-25,0.0
+user_segment_HDFC_Delhi_26-35,0.0
+user_segment_HDFC_Gujarat_56+,0.0
+user_segment_HDFC_Tamil Nadu_26-35,0.0
+user_segment_HDFC_Tamil Nadu_36-45,0.0
+user_segment_HDFC_Uttar Pradesh_18-25,0.0
+user_segment_HDFC_Telangana_56+,0.0
+user_segment_HDFC_Uttar Pradesh_26-35,0.0
+user_segment_HDFC_Uttar Pradesh_56+,0.0
+ORGANIZATION_TYPE_Trade: type 4,0.0
+ORGANIZATION_TYPE_Insurance,0.0
+ORGANIZATION_TYPE_Industry: type 10,0.0
+WEEKDAY_APPR_PROCESS_START_nan,0.0
+user_segment_SBI_Karnataka_18-25,0.0
+ORGANIZATION_TYPE_Trade: type 1,0.0
+ORGANIZATION_TYPE_Religion,0.0
+ORGANIZATION_TYPE_Mobile,0.0
+ORGANIZATION_TYPE_Industry: type 8,0.0
+ORGANIZATION_TYPE_Industry: type 13,0.0
+ORGANIZATION_TYPE_Industry: type 6,0.0
+ORGANIZATION_TYPE_nan,0.0
+NAME_FAMILY_STATUS_Unknown,0.0
+NAME_EDUCATION_TYPE_nan,0.0
+user_segment_SBI_Maharashtra_46-55,0.0
+user_segment_SBI_Telangana_18-25,0.0
+user_segment_SBI_Karnataka_26-35,0.0
+ORGANIZATION_TYPE_Cleaning,0.0
+user_segment_SBI_Gujarat_56+,0.0
+NAME_CONTRACT_TYPE_nan,0.0
+FLAG_OWN_CAR_nan,0.0
+CODE_GENDER_nan,0.0
+CODE_GENDER_XNA,0.0
+FLAG_OWN_REALTY_nan,0.0
+NAME_TYPE_SUITE_Group of people,0.0
+NAME_INCOME_TYPE_Businessman,0.0
+NAME_HOUSING_TYPE_nan,0.0
+NAME_FAMILY_STATUS_nan,0.0
+NAME_INCOME_TYPE_Student,0.0
+NAME_INCOME_TYPE_Maternity leave,0.0
+FLAG_DOCUMENT_4,0.0
+NAME_INCOME_TYPE_nan,0.0
+FLAG_DOCUMENT_10,0.0
+FLAG_DOCUMENT_12,0.0
+FLAG_DOCUMENT_17,0.0
+FLAG_DOCUMENT_7,0.0
+FLAG_DOCUMENT_19,0.0
+FLAG_DOCUMENT_20,0.0
+FLAG_DOCUMENT_21,0.0
+user_segment_SBI_Uttar Pradesh_56+,0.0
+user_segment_Yes Bank_Andhra Pradesh_56+,0.0
+user_segment_Yes Bank_Delhi_46-55,0.0
+user_segment_Yes Bank_Gujarat_26-35,0.0
+user_segment_Yes Bank_Gujarat_46-55,0.0
