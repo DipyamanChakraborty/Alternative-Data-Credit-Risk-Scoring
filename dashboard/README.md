@@ -1,3 +1,7 @@
-# Dashboard
+# Power BI Dashboard
 
-This folder contains the Power BI dashboard developed for visualizing credit risk patterns, UPI behavioral analytics, and model insights.
+The interactive Power BI dashboard was developed for this project.
+
+Due to limitations of GitHub's web uploader with binary files, the `.pbix` dashboard file is not included in this repository.
+
+Dashboard screenshots are available in the `screenshots` folder.
