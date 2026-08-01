@@ -33,7 +33,7 @@ The framework combines traditional credit features with engineered behavioral in
 ## System Architecture
 
 <p align="center">
-<img src="docs/architecture.png" width="850">
+<img width="359" height="970" alt="architecture" src="https://github.com/user-attachments/assets/7582e5ad-d506-4206-b22e-db441faaa24b" />
 </p>
 
 ---
@@ -42,15 +42,16 @@ The framework combines traditional credit features with engineered behavioral in
 
 ### Executive Summary
 
-*(Add screenshot here)*
+<img width="1197" height="666" alt="dashboard_d1" src="https://github.com/user-attachments/assets/712e5f19-806f-4962-b393-b4871fe45472" />
+
 
 ### Credit Risk Drivers
 
-*(Add screenshot here)*
+<img width="1205" height="665" alt="dashboard_d2" src="https://github.com/user-attachments/assets/da12e861-e17a-456a-8173-25378efc11d0" />
 
 ### UPI Behavioral Analytics
 
-*(Add screenshot here)*
+<img width="1197" height="670" alt="dashboard_d3" src="https://github.com/user-attachments/assets/19e56548-dd36-41f4-a692-4481e0129e75" />
 
 ---
 
