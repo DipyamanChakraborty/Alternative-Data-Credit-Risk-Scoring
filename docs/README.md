@@ -1,5 +1,14 @@
 # Alternative Data-Enhanced Credit Risk Scoring using UPI Behavioral Analytics
 
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![XGBoost](https://img.shields.io/badge/XGBoost-ML-green)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![License](https://img.shields.io/badge/License-MIT-red)
+
+</p>
+
 ## Overview
 
 Traditional credit scoring systems primarily rely on financial history and bureau information, making it difficult to accurately assess applicants with limited or no formal credit records. This project proposes an **Alternative Data-Enhanced Credit Risk Scoring Framework** that incorporates **UPI transaction behavior** into conventional credit risk assessment.
