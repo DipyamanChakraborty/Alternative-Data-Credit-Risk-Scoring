@@ -16,6 +16,21 @@ Traditional credit scoring systems primarily rely on financial history and burea
 The framework combines traditional credit features with engineered behavioral indicators derived from UPI transactions to improve creditworthiness prediction. A **Random Forest** model is used as the baseline, while an **XGBoost** classifier serves as the enhanced model. The project also includes an interactive **Power BI dashboard** for exploratory analysis and business insights.
 
 ---
+## Table of Contents
+
+- Overview
+- Objectives
+- Key Features
+- System Architecture
+- Dashboard Preview
+- Machine Learning Models
+- Model Performance
+- Confusion Matrix
+- Repository Structure
+- Technologies Used
+- Installation
+- Future Work
+- Contributors
 
 ## Objectives
 
