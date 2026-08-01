@@ -1,4 +1,4 @@
-# Alternative Data-Enhanced Credit Risk Scoring using UPI Behavioral Analytics
+# Alternative Data-Enhanced Credit Risk Scoring Framework using UPI Behavioral Analytics
 
 <p align="center">
 
@@ -9,13 +9,19 @@
 
 </p>
 
-## Overview
-
+## 📌 Project Overview
 Traditional credit scoring systems primarily rely on financial history and bureau information, making it difficult to accurately assess applicants with limited or no formal credit records. This project proposes an **Alternative Data-Enhanced Credit Risk Scoring Framework** that incorporates **UPI transaction behavior** into conventional credit risk assessment.
 
 The framework combines traditional credit features with engineered behavioral indicators derived from UPI transactions to improve creditworthiness prediction. A **Random Forest** model is used as the baseline, while an **XGBoost** classifier serves as the enhanced model. The project also includes an interactive **Power BI dashboard** for exploratory analysis and business insights.
 
 ---
+## 🚀 Project Highlights
+
+- Developed an alternative data-enhanced credit risk prediction framework.
+- Engineered behavioral features from UPI transaction data.
+- Compared Random Forest and XGBoost models for credit risk prediction.
+- Achieved a ROC-AUC improvement from **0.7183** to **0.7457**.
+- Built an interactive Power BI dashboard for business insights.
 ## Table of Contents
 
 - Overview
@@ -32,7 +38,7 @@ The framework combines traditional credit features with engineered behavioral in
 - Future Work
 - Contributors
 
-## Objectives
+## 🎯 Objectives
 
 - Develop a robust credit risk prediction framework using alternative financial data.
 - Engineer behavioral features from UPI transaction patterns.
@@ -42,7 +48,7 @@ The framework combines traditional credit features with engineered behavioral in
 
 ---
 
-## Key Features
+## ✨ Key Features
 
 - Alternative data-driven credit scoring
 - UPI behavioral feature engineering
@@ -54,7 +60,7 @@ The framework combines traditional credit features with engineered behavioral in
 
 ---
 
-## System Architecture
+## 🏗️ System Architecture
 
 <p align="center">
 <img width="359" height="970" alt="architecture" src="https://github.com/user-attachments/assets/7582e5ad-d506-4206-b22e-db441faaa24b" />
@@ -62,7 +68,7 @@ The framework combines traditional credit features with engineered behavioral in
 
 ---
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Executive Summary
 
@@ -79,7 +85,7 @@ The framework combines traditional credit features with engineered behavioral in
 
 ---
 
-## Machine Learning Models
+## 🤖 Machine Learning Models
 
 | Model | Algorithm |
 |-------|-----------|
@@ -88,7 +94,7 @@ The framework combines traditional credit features with engineered behavioral in
 
 ---
 
-## Model Performance
+## 📈 Model Performance
 
 ### ROC-AUC Comparison
 
@@ -110,7 +116,7 @@ The framework combines traditional credit features with engineered behavioral in
 
 ---
 
-## Confusion Matrix
+## 📌 Confusion Matrix
 
 <p align="center">
 <img width="550" height="547" alt="confusion_matrix" src="https://github.com/user-attachments/assets/fc415b1c-62ba-4c0d-93e4-83b0a91ea5e4" />
@@ -120,7 +126,7 @@ The enhanced XGBoost model correctly classified **155 out of 160** evaluation sa
 
 ---
 
-## Feature Importance
+## ⭐ Feature Importance
 
 The enhanced model provides feature importance scores to identify the variables contributing most significantly to credit risk prediction.
 
@@ -132,7 +138,7 @@ results/feature_importance.csv
 
 ---
 
-## Repository Structure
+## 📂 Repository Structure
 
 ```text
 Alternative-Data-Credit-Risk-Scoring
@@ -151,7 +157,7 @@ Alternative-Data-Credit-Risk-Scoring
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 ### Programming
 
@@ -178,7 +184,7 @@ Alternative-Data-Credit-Risk-Scoring
 
 ---
 
-## Installation
+## 🚀 Installation
 
 Clone the repository
 
@@ -200,7 +206,7 @@ python src/model_training.py
 
 ---
 
-## Future Enhancements
+## 🔮 Future Enhancements
 
 - Deep learning-based credit scoring models
 - Explainable AI using SHAP and LIME
@@ -210,13 +216,12 @@ python src/model_training.py
 
 ---
 
-## Contributors
+## 👥 Contributors
 
 - **Dipyaman Chakraborty** — Data Analytics, Power BI Dashboard, Feature Engineering, Repository Management
 - **Arkajit Chaudhuri** — Machine Learning Model Development and Optimization
 
 ---
 
-## License
-
+## 📜 License
 This project is released under the MIT License.
