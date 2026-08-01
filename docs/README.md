@@ -9,7 +9,7 @@
 
 </p>
 
-## 📌 Project Overview
+- [Project Overview](#-project-overview)
 Traditional credit scoring systems primarily rely on financial history and bureau information, making it difficult to accurately assess applicants with limited or no formal credit records. This project proposes an **Alternative Data-Enhanced Credit Risk Scoring Framework** that incorporates **UPI transaction behavior** into conventional credit risk assessment.
 
 The framework combines traditional credit features with engineered behavioral indicators derived from UPI transactions to improve creditworthiness prediction. A **Random Forest** model is used as the baseline, while an **XGBoost** classifier serves as the enhanced model. The project also includes an interactive **Power BI dashboard** for exploratory analysis and business insights.
