@@ -116,18 +116,20 @@ The framework combines traditional credit features with engineered behavioral in
 
 ---
 
-## 📌 Confusion Matrix
+## Confusion Matrix
 
 <p align="center">
-<img width="550" height="547" alt="confusion_matrix" src="https://github.com/user-attachments/assets/fc415b1c-62ba-4c0d-93e4-83b0a91ea5e4" />
+<img width="550" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/fc415b1c-62ba-4c0d-93e4-83b0a91ea5e4" />
 </p>
-| Actual | Predicted Good | Predicted Poor |
-| ------ | -------------: | -------------: |
-| Good   |             92 |              4 |
-| Poor   |              1 |             63 |
 
+The confusion matrix demonstrates the classification performance of the enhanced XGBoost model on the evaluation dataset.
 
-The enhanced XGBoost model correctly classified **155 out of 160** evaluation samples while maintaining high precision and recall for identifying high-risk borrowers.
+| Actual Class | Predicted Good | Predicted Poor |
+|--------------|---------------:|---------------:|
+| Good         | 92             | 4              |
+| Poor         | 1              | 63             |
+
+The enhanced XGBoost model correctly classified **155 out of 160** evaluation samples, achieving an overall **accuracy of 96.88%**. The model successfully identified **63 of the 64 actual high-risk (Poor) borrowers**, resulting in a **recall of 98.44%**, while misclassifying only **one** high-risk borrower as low risk.
 
 ---
 
