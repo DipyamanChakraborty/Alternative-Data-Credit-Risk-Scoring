@@ -200,8 +200,8 @@ Clone the repository
 git clone https://github.com/DipyamanChakraborty/Alternative-Data-Credit-Risk-Scoring.git```
 
 Install the required libraries
-
-```bash
+```
+``` bash
 pip install -r requirements.txt
 ```
 
